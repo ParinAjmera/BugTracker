@@ -1,0 +1,8 @@
+2016-06-29T20:04:07+02:00
+22, Ada95 Coder, 11
+23, Bughound, 11
+24, Cobol Coder, 11
+29, Cobol Coder, 1, 2
+25, Cobol Coder, 2, 1
+27, Pascal Coder, 11
+28, Word Writer 2011, 11
